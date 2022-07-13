@@ -1,4 +1,4 @@
-.log
-.db
-/target
-/bin
+*.log
+*.db
+target
+bin
